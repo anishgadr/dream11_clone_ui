@@ -1,0 +1,6 @@
+package com.example.dream11_clone_ui
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
